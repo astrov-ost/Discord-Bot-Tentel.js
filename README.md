@@ -1,5 +1,5 @@
-# Discord-Bot-Tentel.js 
- ## Bot 'TentelBot' on JavaScript 
+ # Discord-Bot-Tentel.js
+
  The bot is currently under development. 
   Language: `node.js 13 (JavaScript)` 
   Need a team to contact write here: `ost#4823` 
