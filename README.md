@@ -1,4 +1,4 @@
- # Discord-Bot-Tentel.js
+ # ⚪ Discord-Bot-Tentel.js
 
  The bot is currently under development. 
   Language: `node.js 13 (JavaScript)` 
@@ -7,3 +7,21 @@
  В настоящее время бот находится в разработке. 
   Язык: `node.js 13 (JavaScript)` 
   Нужна команда, для связи пишите сюда: `ost#4823`
+
+## Status
+
+⚪ — Development
+
+🟢 — Finished product
+
+🟡 — Minor difficulties in development; development
+
+🟠 — Active development
+
+🔴 — Difficulties arose
+
+## Contacts
+
+ Discord: ost#4823
+
+ Telegram: @Astrov_Ost
