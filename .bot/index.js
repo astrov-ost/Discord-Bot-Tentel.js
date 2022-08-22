@@ -39,8 +39,8 @@ bot.on('guildMemberAdd', member => {
     {member.ban();} 
 });
 
-let message;
-message = '1009374746049265766,
+let banned;
+banned = '1009374746049265766,
 1009377890892251256,
 1009512163506925638';
 
