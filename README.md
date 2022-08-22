@@ -25,3 +25,10 @@
  Discord: ost#4823
 
  Telegram: @Astrov_Ost
+
+# Licensing
+Standard license, in the standard case, if the author of the repository did not give permission to publish the source code to other users:
+[LICENSE.md](Discord-Bot-Tentel.js/LICENSE.md)
+
+License if the author of the repository agrees with your services:
+[LICENSE](Discord-Bot-Tentel.js/LICENSE)
