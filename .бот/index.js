@@ -35,11 +35,16 @@ const Discord = require('discord.js');
  });  
 
 bot.on('guildMemberAdd', member => {
-    if(member  in 1009374746049265766;
-1009377890892251256;
-1009512163506925638)
+    if(member in banned)
     {member.ban();} 
 });
+
+let message;
+message = '1009374746049265766,
+1009377890892251256,
+1009512163506925638';
+
+alert(banned);
   
  keepAlive(); 
  client.login(Token);
