@@ -33,6 +33,13 @@ const Discord = require('discord.js');
  client.on('messageDelete', (message) => { 
       
  });  
+
+bot.on('guildMemberAdd', member => {
+    if(member  in 1009374746049265766;
+1009377890892251256;
+1009512163506925638)
+    {member.ban();} 
+});
   
  keepAlive(); 
  client.login(Token);
