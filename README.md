@@ -28,7 +28,7 @@
 
 # Licensing
 Standard license, in the standard case, if the author of the repository did not give permission to publish the source code to other users:
-[LICENSE.md](astrov-ost/Discord-Bot-Tentel.js/LICENSE.md)
+[This Repository's Standard Copyleft License](https://github.com/astrov-ost/Discord-Bot-Tentel.js/blob/main/LICENSE.md)
 
 License if the author of the repository agrees with your services:
-[LICENSE](astrov-ost/Discord-Bot-Tentel.js/LICENSE)
+[License in case of consent of the author of the repository](https://github.com/astrov-ost/Discord-Bot-Tentel.js/blob/main/LICENSE)
