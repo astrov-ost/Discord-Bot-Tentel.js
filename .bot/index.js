@@ -4,6 +4,10 @@ const Discord = require('discord.js');
  const client = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]}); 
  const keepAlive = require('./server.js'); 
   
+const banned = '1009374746049265766,
+1009377890892251256,
+1009512163506925638';
+
  const prefix = '!'; 
   
  client.once('ready', async () => { 
@@ -38,13 +42,6 @@ bot.on('guildMemberAdd', member => {
     if(member in banned)
     {member.ban();} 
 });
-
-let banned;
-banned = '1009374746049265766,
-1009377890892251256,
-1009512163506925638';
-
-alert(banned);
   
  keepAlive(); 
  client.login(Token);
