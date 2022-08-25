@@ -30,6 +30,8 @@
 
 MZshnik#5969 (700061502089986139)
 
+sawmoor.eye#8903 (971491999616204831)
+
 # Licensing
 Standard license, in the standard case, if the author of the repository did not give permission to publish the source code to other users:
 [This Repository's Standard Copyleft License](https://github.com/astrov-ost/Discord-Bot-Tentel.js/blob/main/LICENSE.md)
