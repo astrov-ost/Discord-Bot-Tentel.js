@@ -1,4 +1,4 @@
- # ⚪ Discord-Bot-Tentel.js
+ # 🔴 Discord-Bot-Tentel.js
 
  The bot is currently under development. 
   Language: `node.js 13 (JavaScript)` 
